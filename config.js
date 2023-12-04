@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Hello mẹ Âu Cơ",
-    introTitle: 'Nguyễn Phương Hà Âu Cơ',
+    titleWeb: "Hello bạn",
+    introTitle: 'Lê Minh Hiếu',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ thiếu KPI quài 🥴
-    Lạc vào nơi ấy lẻ loi
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^Bấm đây nè^^',
-    title: 'Mẹ LA Âu Cơ ơi 🥰',
-    desc: 'Tháng này mẹ cho con đủ 100% KPI mà không cần làm nhiều nhaaaaaaaaa',
-    btnYes: 'Okk con ❤️',
-    btnNo: 'Không nha 😗',
-    question: 'Sao mẹ đồng ý dạ',
+    btnIntro: '^^HiHi^^',
+    title: 'Này bạn Hiếu ơi 🥰',
+    desc: 'Thời gian dùng thử của bạn Hiếu hết ời, bạn Hiếu có muốn đăng ký gói Premium không?',
+    btnYes: 'Đăng ký ❤️',
+    btnNo: 'Không nha :3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Tại mẹ yêu con nên muốn con đủ 100% KPI mà an nhàn ớ',
-    mess: 'Con biết mà 🥰. Yêu mẹ nhiều nhiều 😘😘',
-    messDesc: 'Tối thứ 4 gặp quẫy nho',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 19h mình qua bạn chơi nha!',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/jafirst.anhtrong.1607/'
 }
